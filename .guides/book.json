@@ -1,0 +1,17 @@
+{
+ "name": "My Portfolio",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "d0a5940d-43c8-eaf3-c2ca-8ee0584e4509",
+   "pageId": "d0a5940d-43c8-eaf3-c2ca-8ee0584e4509",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "b2c64a44-357e-b6f8-7791-1c7883b0d116",
+   "pageId": "b2c64a44-357e-b6f8-7791-1c7883b0d116",
+   "type": "page"
+  }
+ ]
+}
